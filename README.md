@@ -1,3 +1,4 @@
 # Naveen-first
-This is my First repositary.
+This is my First Git repositary.
+<br>
 Author-Naveen Nagar
